@@ -6,7 +6,7 @@ html {
 /*CSS for Links*/
 .nav {
   padding-bottom: 10px;
-  width:350px;
+  width:269px;
   position:relative;
   left:35%;
 }
@@ -17,7 +17,7 @@ html {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #bfbfbf;
+    background-color: #ffffff;
 }
 
 .nav li {
@@ -34,7 +34,7 @@ html {
 }
 
 .nav li a:hover {
-    background-color: #ffffff;
+    background-color: #bfbfbf;
     
 }
 /*------------------------------------------------------------------------------------*/
